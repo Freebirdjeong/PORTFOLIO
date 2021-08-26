@@ -70,7 +70,7 @@ h1 {
   font-size: var(--font-large);
   font-weight: var(--weight-bold);
   color: var(--color-black);
-  margin: 16px 0px;
+  margin: 55px 0px;
 }
 
 h2 {
@@ -116,12 +116,6 @@ p {
   font-size: var(--font-medium);
   font-weight: var(--weight-semi-bold);
   color: white;
-}
-
-.navbar__main__profile {
-  width: 30px;
-  height: 30px;
-  margin-top: 10px;
 }
 
 .navbar__menu {

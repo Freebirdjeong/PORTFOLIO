@@ -137,7 +137,7 @@ p {
   margin: 0 4px;
   color: var(--color-white);
   cursor: pointer;
-  border: 1px solid transparent;
+  /* border: 1px solid transparent; */
   border-radius: var(--size-border-radius);
 }
 
